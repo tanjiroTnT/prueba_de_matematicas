@@ -1,0 +1,13 @@
+body
+{
+    background-color: burlywood;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: rgb(222, 184, 135);
+		padding: 10px;
+		float: none;
+		border-radius: 25px;
+	}
+
